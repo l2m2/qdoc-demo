@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE QDOCINDEX>
-<INDEX url="http://doc.qt.io/qt-5" title="qdocdemo Reference Documentation" version="" project="qdocdemo" indexTitle="qdocdemo">
+<INDEX url="http://doc.qt.io/qt-5" title="演示QDoc用法的项目" version="1.0.0" project="qdocdemo" indexTitle="QDoc Demo">
     <namespace threadsafety="unspecified" name="" status="active" access="public" module="qdocdemo">
         <page name="qdocdemo-index.html" href="qdocdemo-index.html" status="active" location="qdocdemo-index.qdoc" filepath="F:/workspace/l2m2/qdoc-demo/src/qdoc/src/qdocdemo-index.qdoc" lineno="1" subtype="page" title="doc project" fulltitle="doc project" subtitle="" module="qdocdemo">
             <keyword name="doc-reference-documentation" title="doc Reference Documentation"/>

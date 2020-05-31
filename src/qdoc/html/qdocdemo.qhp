@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <QtHelpProject version="1.0">
-    <namespace>com.qdocdemo.1.0</namespace>
+    <namespace>com.l2m2.qdocdemo.1.0.0</namespace>
     <virtualFolder>qdocdemo</virtualFolder>
     <customFilter name="qdocdemo"/>
     <filterSection>
         <filterAttribute>qdocdemo</filterAttribute>
         <filterAttribute>qtrefdoc</filterAttribute>
         <toc>
-            <section ref="index.html" title="">
+            <section ref="index.html" title="QDoc Demo">
                 <section ref="" title="C++ Classes">
                     <section ref="democlass1.html" title="DemoClass1 Class Reference">
                         <section ref="democlass1-members.html" title="List of all members"/>
