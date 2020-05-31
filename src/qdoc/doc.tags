@@ -1,41 +1,59 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tagfile>
     <compound kind="class">
-        <name>QDocDemo1</name>
-        <filename>qdocdemo1.html</filename>
+        <name>DemoClass1</name>
+        <filename>democlass1.html</filename>
         <member kind="function" protection="public" virtualness="non" static="no">
             <type></type>
-            <name>QDocDemo1</name>
-            <anchorfile>qdocdemo1.html</anchorfile>
-            <anchor>QDocDemo1</anchor>
+            <name>DemoClass1</name>
+            <anchorfile>democlass1.html</anchorfile>
+            <anchor>DemoClass1</anchor>
             <arglist>(QObject *parent)</arglist>
         </member>
         <member kind="function" protection="public" virtualness="non" static="no">
             <type>void</type>
             <name>foo</name>
-            <anchorfile>qdocdemo1.html</anchorfile>
+            <anchorfile>democlass1.html</anchorfile>
             <anchor>foo</anchor>
             <arglist>()</arglist>
         </member>
         <member kind="function" protection="public" virtualness="non" static="no">
             <type>void</type>
             <name>bar</name>
-            <anchorfile>qdocdemo1.html</anchorfile>
+            <anchorfile>democlass1.html</anchorfile>
             <anchor>bar</anchor>
             <arglist>(const QString &amp;str)</arglist>
         </member>
         <member kind="function" protection="public" virtualness="non" static="no">
             <type>void</type>
             <name>fooSignal</name>
-            <anchorfile>qdocdemo1.html</anchorfile>
+            <anchorfile>democlass1.html</anchorfile>
             <anchor>fooSignal</anchor>
             <arglist>()</arglist>
         </member>
         <member kind="function" protection="public" virtualness="non" static="no">
             <type>void</type>
             <name>fooSlots</name>
-            <anchorfile>qdocdemo1.html</anchorfile>
+            <anchorfile>democlass1.html</anchorfile>
             <anchor>fooSlots</anchor>
+            <arglist>()</arglist>
+        </member>
+    </compound>
+    <compound kind="class">
+        <name>DemoClass2</name>
+        <filename>democlass2.html</filename>
+        <member kind="function" protection="public" virtualness="non" static="no">
+            <type></type>
+            <name>DemoClass2</name>
+            <anchorfile>democlass2.html</anchorfile>
+            <anchor>DemoClass2</anchor>
+            <arglist>()</arglist>
+        </member>
+        <member kind="function" protection="public" virtualness="non" static="no">
+            <type>void</type>
+            <name>dirty</name>
+            <anchorfile>democlass2.html</anchorfile>
+            <anchor>dirty</anchor>
             <arglist>()</arglist>
         </member>
     </compound>

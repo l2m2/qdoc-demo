@@ -1,13 +1,13 @@
-#ifndef QDOCDEMO1_H
-#define QDOCDEMO1_H
+#ifndef DEMOCLASS2_H
+#define DEMOCLASS2_H
 
 #include <QObject>
 
-class QDocDemo1 : public QObject
+class DemoClass1 : public QObject
 {
     Q_OBJECT
 public:
-    QDocDemo1(QObject *parent = nullptr);
+    DemoClass1(QObject *parent = nullptr);
 
     void foo();
     void bar(const QString &str);
@@ -23,4 +23,4 @@ private:
     void funcPrivate();
 };
 
-#endif // QDOCDEMO1_H
+#endif // DEMOCLASS2_H

@@ -4,22 +4,33 @@
     <virtualFolder>qdocdemo</virtualFolder>
     <filterSection>
         <toc>
-            <section ref="index.html" title="qdocdemo">
+            <section ref="index.html" title="qdocdemo Documentation">
                 <section ref="" title="Classes">
-                    <section ref="qdocdemo1.html" title="QDocDemo1 Class Reference">
-                        <section ref="qdocdemo1-members.html" title="List of all members"/>
+                    <section ref="democlass1.html" title="DemoClass1 Class Reference">
+                        <section ref="democlass1-members.html" title="List of all members"/>
+                    </section>
+                    <section ref="democlass2.html" title="DemoClass2 Class Reference">
+                        <section ref="democlass2-members.html" title="List of all members"/>
                     </section>
                 </section>
             </section>
         </toc>
         <keywords>
-            <keyword name="QDocDemo1" id="QDocDemo1" ref="qdocdemo1.html"/>
-            <keyword name="bar" id="QDocDemo1::bar" ref="qdocdemo1.html#bar"/>
-            <keyword name="foo" id="QDocDemo1::foo" ref="qdocdemo1.html#foo"/>
-            <keyword name="fooSignal" id="QDocDemo1::fooSignal" ref="qdocdemo1.html#fooSignal"/>
-            <keyword name="fooSlots" id="QDocDemo1::fooSlots" ref="qdocdemo1.html#fooSlots"/>
+            <keyword name="DemoClass1" id="DemoClass1" ref="democlass1.html"/>
+            <keyword name="DemoClass2" id="DemoClass2" ref="democlass2.html"/>
+            <keyword name="bar" id="DemoClass1::bar" ref="democlass1.html#bar"/>
+            <keyword name="dirty" id="DemoClass2::dirty" ref="democlass2.html#dirty"/>
+            <keyword name="doc Reference Documentation" id="doc Reference Documentation" ref="qdocdemo-index.html"/>
+            <keyword name="doc project" id="doc project" ref="qdocdemo-index.html"/>
+            <keyword name="foo" id="DemoClass1::foo" ref="democlass1.html#foo"/>
+            <keyword name="fooSignal" id="DemoClass1::fooSignal" ref="democlass1.html#fooSignal"/>
+            <keyword name="fooSlots" id="DemoClass1::fooSlots" ref="democlass1.html#fooSlots"/>
         </keywords>
         <files>
+            <file>democlass1-members.html</file>
+            <file>democlass1.html</file>
+            <file>democlass2-members.html</file>
+            <file>democlass2.html</file>
             <file>images/arrow_bc.png</file>
             <file>images/bgrContent.png</file>
             <file>images/btn_next.png</file>
@@ -31,8 +42,7 @@
             <file>images/ico_note_attention.png</file>
             <file>images/ico_out.png</file>
             <file>images/logo.png</file>
-            <file>qdocdemo1-members.html</file>
-            <file>qdocdemo1.html</file>
+            <file>qdocdemo-index.html</file>
             <file>style/offline-simple.css</file>
             <file>style/offline.css</file>
         </files>

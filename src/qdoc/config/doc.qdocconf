@@ -6,9 +6,13 @@ project                 = qdocdemo
 description             = qdocdemo
 version                 = 1.0
 
-headerdirs  += ../../qdocdemo
+depends                 += qtgui qtwidgets qtnetwork qtdoc qtquick qtlinguist qtdesigner
 
-sourcedirs  = ../../qdocdemo
+headerdirs  += ../src \
+    ../../qdocdemo
+
+sourcedirs  = ../src \
+    ../../qdocdemo
 
 outputformats=HTML
 
@@ -16,7 +20,7 @@ qhp.projects                 = qdocdemo
 qhp.qdocdemo.file                 = qdocdemo.qhp
 qhp.qdocdemo.namespace            = com.qdocdemo.1.0
 qhp.qdocdemo.virtualFolder        = qdocdemo
-qhp.qdocdemo.indexTitle           = qdocdemo
+qhp.qdocdemo.indexTitle           = qdocdemo Documentation
 qhp.qdocdemo.indexRoot           =
 
 qhp.qdocdemo.subprojects = classes
@@ -24,10 +28,9 @@ qhp.qdocdemo.subprojects.classes.title = Classes
 qhp.qdocdemo.subprojects.classes.indexTitle = All Classes
 qhp.qdocdemo.subprojects.classes.selectors = class
 
-
-navigation.homepage = "qdocdemo Project"
-navigation.landingpage = "qdocdemo"
-navigation.cppclassespage = "C++ Classes"
+#navigation.homepage = "qdocdemo Project"
+#navigation.landingpage = "qdocdemo"
+#navigation.cppclassespage = "C++ Classes"
 
 outputdir   = ../html
 
