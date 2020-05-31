@@ -20,13 +20,13 @@ qhp.qdocdemo.indexTitle           = qdocdemo
 qhp.qdocdemo.indexRoot           =
 
 qhp.qdocdemo.subprojects = classes
-qhp.qdocdemo.subprojects.classes.title = C++ Classes
-qhp.qdocdemo.subprojects.classes.indexTitle = C++ Classes
-qhp.qdocdemo.subprojects.classes.selectors = class fake:headerfile
-qhp.qdocdemo.subprojects.classes.sortPages = true
+qhp.qdocdemo.subprojects.classes.title = Classes
+qhp.qdocdemo.subprojects.classes.indexTitle = All Classes
+qhp.qdocdemo.subprojects.classes.selectors = class
+
 
 navigation.homepage = "qdocdemo Project"
-navigation.landingpage = "doc"
+navigation.landingpage = "qdocdemo"
 navigation.cppclassespage = "C++ Classes"
 
 outputdir   = ../html

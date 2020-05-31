@@ -26,13 +26,6 @@
         </member>
         <member kind="function" protection="public" virtualness="non" static="no">
             <type>void</type>
-            <name>exampleNoQdoc</name>
-            <anchorfile>qdocdemo1.html</anchorfile>
-            <anchor>exampleNoQdoc</anchor>
-            <arglist>()</arglist>
-        </member>
-        <member kind="function" protection="public" virtualness="non" static="no">
-            <type>void</type>
             <name>fooSignal</name>
             <anchorfile>qdocdemo1.html</anchorfile>
             <anchor>fooSignal</anchor>

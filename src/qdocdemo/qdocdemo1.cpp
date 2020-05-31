@@ -34,11 +34,6 @@ void QDocDemo1::bar(const QString &str)
     Q_UNUSED(str)
 }
 
-void QDocDemo1::exampleNoQdoc()
-{
-
-}
-
 /*!
  * \brief brief of fooSlots
  */

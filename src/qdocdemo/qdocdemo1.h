@@ -11,7 +11,6 @@ public:
 
     void foo();
     void bar(const QString &str);
-    void exampleNoQdoc();
 
 signals:
     void fooSignal();

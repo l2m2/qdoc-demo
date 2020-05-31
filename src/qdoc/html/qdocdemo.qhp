@@ -5,7 +5,7 @@
     <filterSection>
         <toc>
             <section ref="index.html" title="qdocdemo">
-                <section ref="" title="C++ Classes">
+                <section ref="" title="Classes">
                     <section ref="qdocdemo1.html" title="QDocDemo1 Class Reference">
                         <section ref="qdocdemo1-members.html" title="List of all members"/>
                     </section>
@@ -15,7 +15,6 @@
         <keywords>
             <keyword name="QDocDemo1" id="QDocDemo1" ref="qdocdemo1.html"/>
             <keyword name="bar" id="QDocDemo1::bar" ref="qdocdemo1.html#bar"/>
-            <keyword name="exampleNoQdoc" id="QDocDemo1::exampleNoQdoc" ref="qdocdemo1.html#exampleNoQdoc"/>
             <keyword name="foo" id="QDocDemo1::foo" ref="qdocdemo1.html#foo"/>
             <keyword name="fooSignal" id="QDocDemo1::fooSignal" ref="qdocdemo1.html#fooSignal"/>
             <keyword name="fooSlots" id="QDocDemo1::fooSlots" ref="qdocdemo1.html#fooSlots"/>
