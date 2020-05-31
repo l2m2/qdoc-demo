@@ -1,0 +1,36 @@
+include(../global/qt-module-defaults-offline.qdocconf)
+include(../global/fileextensions.qdocconf)
+include(../global/qt-html-templates-offline.qdocconf)
+
+project                 = qdocdemo
+description             = qdocdemo
+version                 = 1.0
+
+headerdirs  += ../../qdocdemo
+
+sourcedirs  = ../../qdocdemo
+
+outputformats=HTML
+
+qhp.projects                 = qdocdemo
+qhp.qdocdemo.file                 = qdocdemo.qhp
+qhp.qdocdemo.namespace            = com.qdocdemo.1.0
+qhp.qdocdemo.virtualFolder        = qdocdemo
+qhp.qdocdemo.indexTitle           = qdocdemo
+qhp.qdocdemo.indexRoot           =
+
+qhp.qdocdemo.subprojects = classes
+qhp.qdocdemo.subprojects.classes.title = C++ Classes
+qhp.qdocdemo.subprojects.classes.indexTitle = C++ Classes
+qhp.qdocdemo.subprojects.classes.selectors = class fake:headerfile
+qhp.qdocdemo.subprojects.classes.sortPages = true
+
+navigation.homepage = "qdocdemo Project"
+navigation.landingpage = "doc"
+navigation.cppclassespage = "C++ Classes"
+
+outputdir   = ../html
+
+imagedirs   = ../images
+
+tagfile = ../doc.tags
