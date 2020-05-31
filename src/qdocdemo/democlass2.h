@@ -1,4 +1,4 @@
-﻿#ifndef DEMOCLASS2_H
+#ifndef DEMOCLASS2_H
 #define DEMOCLASS2_H
 
 

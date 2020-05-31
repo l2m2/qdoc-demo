@@ -1,4 +1,4 @@
-﻿#include "democlass2.h"
+#include "democlass2.h"
 
 /*!
  * \class DemoClass2
