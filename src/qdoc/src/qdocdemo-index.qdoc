@@ -4,18 +4,10 @@
 
 \keyword QDoc Demo Reference Documentation
 
-\title QDoc 演示项目
+\title QDoc Demo
 
 在这里介绍这个项目
 
-\section1 Reference
-These are links to the API reference materials.
-\list
-\li \l{QDoc Demo C++ Classes}{C++ Classes}
-    \list
-    \li \l{DemoClass1 Classes}
-    \li \l{DemoClass2 Classes}
-    \endlist
-\endlist
+\l {QDoc Demo C++ Classes}
 
 */

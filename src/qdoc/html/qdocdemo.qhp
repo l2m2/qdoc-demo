@@ -7,7 +7,7 @@
         <filterAttribute>qdocdemo</filterAttribute>
         <filterAttribute>qtrefdoc</filterAttribute>
         <toc>
-            <section ref="index.html" title="QDoc Demo">
+            <section ref="qdocdemo-index.html" title="QDoc Demo">
                 <section ref="" title="C++ Classes">
                     <section ref="democlass1.html" title="DemoClass1 Class Reference">
                         <section ref="democlass1-members.html" title="List of all members"/>
@@ -21,8 +21,8 @@
         <keywords>
             <keyword name="DemoClass1" id="DemoClass1" ref="democlass1.html"/>
             <keyword name="DemoClass2" id="DemoClass2" ref="democlass2.html"/>
+            <keyword name="QDoc Demo" id="QDoc Demo" ref="qdocdemo-index.html"/>
             <keyword name="QDoc Demo Reference Documentation" id="QDoc Demo Reference Documentation" ref="qdocdemo-index.html"/>
-            <keyword name="QDoc 演示项目" id="QDoc 演示项目" ref="qdocdemo-index.html"/>
             <keyword name="bar" id="DemoClass1::bar" ref="democlass1.html#bar"/>
             <keyword name="dirty" id="DemoClass2::dirty" ref="democlass2.html#dirty"/>
             <keyword name="foo" id="DemoClass1::foo" ref="democlass1.html#foo"/>

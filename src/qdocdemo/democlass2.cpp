@@ -3,7 +3,6 @@
 /*!
  * \class DemoClass2
  * \inmodule qdocdemo
- * \ingroup modules
  * \brief DemoClass2的简介
  */
 
