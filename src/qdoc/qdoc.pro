@@ -21,4 +21,19 @@ QMAKE_EXTRA_TARGETS += doc_generate qch_docs
 PRE_TARGETDEPS += qch_docs
 
 DISTFILES += \
-    config/doc.qdocconf
+    config/doc.qdocconf \
+    global/compat.qdocconf \
+    global/config.qdocconf \
+    global/externalsites.qdocconf \
+    global/fileextensions.qdocconf \
+    global/html-config.qdocconf \
+    global/html-footer.qdocconf \
+    global/html-header-offline.qdocconf \
+    global/macros.qdocconf \
+    global/manifest-meta.qdocconf \
+    global/qt-cpp-defines.qdocconf \
+    global/qt-html-templates-offline-simple.qdocconf \
+    global/qt-html-templates-offline.qdocconf \
+    global/qt-module-defaults-offline.qdocconf \
+    src/qdocdemo-index.qdoc \
+    src/qdocdemo.qdoc

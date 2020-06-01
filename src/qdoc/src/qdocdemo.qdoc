@@ -1,0 +1,9 @@
+/*!
+    \module qdocdemo
+    \title QDoc Demo C++ Classes
+    \ingroup modules
+
+    \brief Provides core non-GUI functionality.
+
+    这里是详细描述
+*/

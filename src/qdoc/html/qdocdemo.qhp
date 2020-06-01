@@ -21,13 +21,14 @@
         <keywords>
             <keyword name="DemoClass1" id="DemoClass1" ref="democlass1.html"/>
             <keyword name="DemoClass2" id="DemoClass2" ref="democlass2.html"/>
+            <keyword name="QDoc Demo Reference Documentation" id="QDoc Demo Reference Documentation" ref="qdocdemo-index.html"/>
+            <keyword name="QDoc 演示项目" id="QDoc 演示项目" ref="qdocdemo-index.html"/>
             <keyword name="bar" id="DemoClass1::bar" ref="democlass1.html#bar"/>
             <keyword name="dirty" id="DemoClass2::dirty" ref="democlass2.html#dirty"/>
-            <keyword name="doc Reference Documentation" id="doc Reference Documentation" ref="qdocdemo-index.html"/>
-            <keyword name="doc project" id="doc project" ref="qdocdemo-index.html"/>
             <keyword name="foo" id="DemoClass1::foo" ref="democlass1.html#foo"/>
             <keyword name="fooSignal" id="DemoClass1::fooSignal" ref="democlass1.html#fooSignal"/>
             <keyword name="fooSlots" id="DemoClass1::fooSlots" ref="democlass1.html#fooSlots"/>
+            <keyword name="qdocdemo" id="qdocdemo" ref="qdocdemo-module.html"/>
         </keywords>
         <files>
             <file>democlass1-members.html</file>
@@ -46,6 +47,7 @@
             <file>images/ico_out.png</file>
             <file>images/logo.png</file>
             <file>qdocdemo-index.html</file>
+            <file>qdocdemo-module.html</file>
             <file>style/offline-simple.css</file>
             <file>style/offline.css</file>
         </files>
